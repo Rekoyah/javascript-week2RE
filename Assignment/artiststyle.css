@@ -1,6 +1,10 @@
 body {
-    background-color: rgb(173, 52, 52);
+    background-color: rgb(235, 65, 133);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(209, 199, 150);
+    margin: 0;
+    text-align: center;
 }
-#gloimg {
+img {
     width: 100%;
 }

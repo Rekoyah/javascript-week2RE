@@ -9,6 +9,9 @@ body {
 img.gloBanner {
     width: 100%;
 }
+img.bioGlo {
+    width: 100%;
+}
 p {
     display: inline-block;
     margin: 10px;

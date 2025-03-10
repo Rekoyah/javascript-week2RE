@@ -9,6 +9,11 @@ body {
 img.gloBanner {
     width: 100%;
 }
+p {
+    display: inline-block;
+    margin: 10px;
+    margin-top: 5px;
+}
 a:link {
     color: rgb(209, 199, 150);
     text-decoration: none;

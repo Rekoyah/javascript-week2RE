@@ -5,6 +5,14 @@ body {
     margin: 0;
     text-align: center;
 }
-img {
+img.gloBanner {
     width: 100%;
+}
+a:link {
+    color: rgb(209, 199, 150);
+    text-decoration: none;
+}
+a:visited {
+    color: rgb(209, 199, 150);
+    text-decoration: none;
 }
